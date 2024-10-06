@@ -4,7 +4,7 @@
 
 
 
-Replace `"your_openai_api_key_here"` with your actual OpenAI API key.
+Replace `"your_openai_api_key_here"` with your actual OpenAI API key. <br>
 Replace `"your_groq_api_key_here"` with your actual OpenAI API key.
 
 Here's an example of what the `.env` file could look like:
