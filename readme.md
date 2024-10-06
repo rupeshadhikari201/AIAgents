@@ -14,8 +14,8 @@ OPENAI_API_KEY="your_openai_api_key_here"
 GROQ_API_KEY="your_openai_api_key_here"
 ```
 
-Make sure to replace `"your_openai_api_key_here"` with your actual OpenAI API key. or
-Make sure to replace `"your_groq_api_key_here"` with your actual OpenAI API key. or
+Make sure to replace `"your_openai_api_key_here"` with your actual OpenAI API key. or <br>
+Make sure to replace `"your_groq_api_key_here"` with your actual OpenAI API key. 
 
 After creating the `.env` file, you can run your Streamlit app using the following command:
 
